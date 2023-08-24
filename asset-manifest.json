@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.8f0cee00.css",
+    "main.js": "/portfolio/static/js/main.7000369d.js",
+    "static/js/787.1ed0c42c.chunk.js": "/portfolio/static/js/787.1ed0c42c.chunk.js",
+    "static/media/drone.jpg": "/portfolio/static/media/drone.711df05844e673cca46a.jpg",
+    "static/media/CDAC Certificate.jpg": "/portfolio/static/media/CDAC Certificate.ba6b3d9b09d7dcc676cb.jpg",
+    "static/media/Ansys.jpg": "/portfolio/static/media/Ansys.a7355a5474a984c8a68d.jpg",
+    "static/media/Catia.jpg": "/portfolio/static/media/Catia.2a52a8cae2cbfe9a2fa4.jpg",
+    "static/media/weather.jpg": "/portfolio/static/media/weather.8e5bee0db9e29f3b5783.jpg",
+    "static/media/shearwalls.png": "/portfolio/static/media/shearwalls.6848c97eb70e185e2aa6.png",
+    "static/media/CDAC__low.jpg": "/portfolio/static/media/CDAC__low.5a46d9edab3d7fc9187b.jpg",
+    "static/media/under_construction.jpg": "/portfolio/static/media/under_construction.cd4252ba68090095e4c8.jpg",
+    "static/media/VSMSDatabaseERD.png": "/portfolio/static/media/VSMSDatabaseERD.e8213b2e20f8b9134b17.png",
+    "static/media/contact.gif": "/portfolio/static/media/contact.6020c2a9a682768b6699.gif",
+    "static/media/Ansys_low.jpg": "/portfolio/static/media/Ansys_low.a6f78b50f960cfaeaf41.jpg",
+    "static/media/Catia_low.jpg": "/portfolio/static/media/Catia_low.a87e2634a93550c4fb78.jpg",
+    "index.html": "/portfolio/index.html",
+    "main.8f0cee00.css.map": "/portfolio/static/css/main.8f0cee00.css.map",
+    "main.7000369d.js.map": "/portfolio/static/js/main.7000369d.js.map",
+    "787.1ed0c42c.chunk.js.map": "/portfolio/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8f0cee00.css",
+    "static/js/main.7000369d.js"
+  ]
+}
